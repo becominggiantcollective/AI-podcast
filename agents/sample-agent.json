@@ -1,0 +1,6 @@
+{  
+  "agent": {    
+    "name": "Sample Agent",    
+    "host": "sage"  
+  }
+}
